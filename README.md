@@ -1,10 +1,10 @@
-# Projeto Jogo: Melda
+# The Last Eclipse
 
 ## Equipe
 Amanda e Matheus
 
 ## Descrição do Jogo
-"Melda" é um jogo de aventura no estilo boss fight coop local, fortemente inspirado no clássico Zelda. O objetivo dos jogadores é trabalharem juntos para derrotar um chefão em uma arena, utilizando movimentação estratégica e ataques coordenados. O jogo está sendo desenvolvido em Python utilizando a biblioteca Pyxel.
+"The Last Eclipse" é um jogo de aventura no estilo boss fight coop local, fortemente inspirado no clássico Zelda. O objetivo dos jogadores é trabalharem juntos para derrotar um chefão em uma arena, utilizando movimentação estratégica e ataques coordenados. O jogo está sendo desenvolvido em Python utilizando a biblioteca Pyxel.
 
 ## Integração STEAM
 Este projeto atende aos requisitos STEAM com foco principal no eixo de *Artes (Arts)*. A integração ocorre das seguintes formas:
