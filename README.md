@@ -1,6 +1,15 @@
-# A Lenda de Melda
+# Projeto Jogo: Melda
 
-Zelda-style boss fight game built with Pyxel.
+## Equipe
+Amanda e Matheus
+
+## Descrição do Jogo
+"Melda" é um jogo de aventura no estilo boss fight coop local, fortemente inspirado no clássico Zelda. O objetivo dos jogadores é trabalharem juntos para derrotar um chefão em uma arena, utilizando movimentação estratégica e ataques coordenados. O jogo está sendo desenvolvido em Python utilizando a biblioteca Pyxel.
+
+## Integração STEAM
+Este projeto atende aos requisitos STEAM com foco principal no eixo de *Artes (Arts)*. A integração ocorre das seguintes formas:
+* *Artes Visuais:* Todos os sprites (personagens, chefão, cenário e interface) estão sendo desenhados e animados manualmente pela equipe dentro das limitações de cores e resolução da engine.
+* *Música e Design de Som:* A trilha sonora do jogo conta com composição musical original feita em formato chiptune (8-bits), além da criação de efeitos sonoros customizados para os golpes e interações do jogo.
 
 ## Requirements
 
