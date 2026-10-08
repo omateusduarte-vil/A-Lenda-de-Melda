@@ -1,0 +1,536 @@
+format_version = 1
+
+[[images]]
+width = 256
+height = 256
+data = [[0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 0], [0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 0], [0, 0, 0, 0, 12, 0, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 12, 12, 12, 12, 12, 12, 0], [0, 0, 0, 0, 12, 0, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 12, 12, 12, 12, 0, 12, 0], [0, 0, 0, 0, 12, 0, 12, 12, 12, 12, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 0, 12, 0], [0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 0, 12, 0], [0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 0], [0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0, 0, 0, 0, 0, 0, 0, 12, 12, 12, 12, 12, 12, 12, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 12, 0], [0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 12, 0, 0, 12, 0], [0], [0], [0], [0, 0, 0, 0, 0, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 0], [0, 0, 0, 0, 0, 8, 8, 8, 8, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 0], [0, 0, 8, 0, 0, 8, 8, 0, 8, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 8, 0], [0, 0, 8, 0, 0, 8, 8, 8, 8, 0, 8, 8, 0, 0, 0, 0, 0, 8, 8, 8, 0, 8, 8, 8, 8, 0], [0, 0, 8, 8, 0, 8, 8, 0, 8, 0, 8, 0, 0, 0, 0, 0, 8, 0, 0, 8, 8, 8, 8, 0, 8, 0], [0, 0, 0, 8, 0, 0, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 8, 8, 8, 8, 8, 0, 0, 0, 8, 0], [0, 0, 0, 0, 8, 0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 8, 0, 8, 8, 0, 8, 8, 0], [0, 0, 0, 0, 8, 8, 8, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 0, 0, 8, 8, 8, 0], [0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0], [0, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 8, 8, 8, 0], [0, 0, 0, 0, 8, 8, 8, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 8, 0, 8, 0], [0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 8, 8, 8, 8, 8, 0, 8, 8, 0], [0, 0, 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 8, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 8, 0], [0]]
+
+[[images]]
+width = 256
+height = 256
+data = [[0]]
+
+[[images]]
+width = 256
+height = 256
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[tilemaps]]
+width = 256
+height = 256
+imgsrc = 0
+data = [[0]]
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[sounds]]
+notes = []
+tones = []
+volumes = []
+effects = []
+speed = 30
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
+
+[[musics]]
+seqs = []
