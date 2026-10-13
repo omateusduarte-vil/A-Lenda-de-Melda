@@ -42,9 +42,9 @@ class App:
         self.bluu.show()
         # Barras simples de HP dos jogadores, usadas pelo dano de contato.
         pyxel.rect(3, 3, 45, 4, 13)
-        pyxel.rect(3, 3, 45 * (self.bluu.hp / self.bluu.hpmax), 4, 8)
+        pyxel.rect(3, 3, 45 * (self.bluu.hp / self.bluu.hpmax), 4, 11)
         pyxel.rect(112, 3, 45, 4, 13)
-        pyxel.rect(112, 3, 45 * (self.redd.hp / self.redd.hpmax), 4, 8)
+        pyxel.rect(112, 3, 45 * (self.redd.hp / self.redd.hpmax), 4, 11)
         # Fundo da barra de HP do Luxur.
         pyxel.rect(10, 108, 140, 5, 13)
         # Parte vermelha, proporcional ao HP máximo.
