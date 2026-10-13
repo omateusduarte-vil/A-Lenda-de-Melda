@@ -56,7 +56,7 @@ class Vil:
         # CONTROLES TEMPORÁRIOS DAS HITBOXES (largura/altura em pixels).
         # offset_x/offset_y deslocam a hitbox em relação ao centro/origem.
         # Os valores iniciais reproduzem as dimensões usadas nas colisões originais.
-        self.mostrar_hitboxes = True
+        self.mostrar_hitboxes = False
         self.hitboxes = {
             "contato_luxur": {"largura": 40, "altura": 40, "offset_x": -20, "offset_y": -20},
             "bola_fogo": {"largura": 2 * (RAIO_BOLA_FOGO + 2), "altura": 2 * (RAIO_BOLA_FOGO + 2), "offset_x": 0, "offset_y": 0},
