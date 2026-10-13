@@ -444,7 +444,7 @@ class Char:
         # HITBOX VISUAL DO PERSONAGEM (vermelho vivo para destacar).
         # O contorno e apenas visual; nao altera a logica de colisao.
         tamanho = 16 if self.sprite_y is not None else 10
-        pyxel.rectb(self.x, self.y, tamanho, tamanho, 12)
+        #pyxel.rectb(self.x, self.y, tamanho, tamanho, 12)
 
         # HITBOX ATIVA DO GOLPE DO BLUU (amarelo).
         # Usa as mesmas dimensoes e posicoes da colisao em ataque().
@@ -460,10 +460,10 @@ class Char:
             else:
                 hitbox_espada_x = espada_x + HITBOX_ESPADA_OFFSET_X_ESQUERDA
             hitbox_espada_y = espada_y + HITBOX_ESPADA_OFFSET_Y
-            pyxel.rectb(
-                hitbox_espada_x, hitbox_espada_y,
-                HITBOX_ESPADA_LARGURA, HITBOX_ESPADA_ALTURA, 10
-            )
+            #pyxel.rectb(
+            #    hitbox_espada_x, hitbox_espada_y,
+            #    HITBOX_ESPADA_LARGURA, HITBOX_ESPADA_ALTURA, 10
+            #)
 # ============================================================
 # CLASSE DO PROJÉTIL DA REDD
 # Controla posição, direção, distância e colisão do tiro.
