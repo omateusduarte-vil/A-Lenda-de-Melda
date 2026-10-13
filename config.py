@@ -20,9 +20,9 @@ DELAY_ENTRE_GOLPES = 2
 # Tempo depois do terceiro golpe
 DELAY_FIM_COMBO = 8
 # Dano de cada golpe
-DANO_GOLPE1 = 40
-DANO_GOLPE2 = 40
-DANO_GOLPE3 = 40
+DANO_GOLPE1 = 3
+DANO_GOLPE2 = 4
+DANO_GOLPE3 = 5
 # ============================================================
 # CONFIGURAÇÃO DO TIRO DA REDD
 # ============================================================
